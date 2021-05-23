@@ -51,5 +51,5 @@ const traerDatos = async () => {
 //Gestor de eventos para cuando inicie el DOM.
 
 d.addEventListener("DOMContentLoaded", (e) => {
-  // traerDatos();
+  traerDatos();
 });
